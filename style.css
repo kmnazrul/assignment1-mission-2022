@@ -1,0 +1,150 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.flexible {
+  display: flex;
+  justify-content: center;
+}
+#vertical-line {
+  margin-top: 63px;
+  margin-right: 10px;
+  height: 112px;
+  width: 10px;
+  background-color: blue;
+}
+.top-part h1 {
+  font-family: "Yeseva One", cursive;
+  font-size: 60px;
+}
+
+.orange-color {
+  color: orange;
+}
+
+.half-width {
+  width: 40%;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-left: 50px;
+}
+
+.paragraph1 {
+  margin-bottom: 30px;
+}
+.paragraph2 {
+  margin-top: 30px;
+}
+.top-part img {
+  width: 80%;
+}
+.font-size-18px {
+  font-size: 18px;
+}
+.font-size-24px {
+  font-size: 24px;
+}
+.font-size-36px {
+  font-size: 36px;
+}
+.font-size-48px {
+  font-size: 48px;
+}
+.text-center {
+  text-align: center;
+}
+
+.link-button {
+  padding: 10px 25px;
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  border-radius: 5px;
+  font-weight: 500;
+}
+
+.card {
+  width: 25%;
+  margin-left: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 15px;
+}
+.card1 {
+  background-color: rgba(173, 216, 230, 0.2);
+}
+.card2 {
+  background-color: rgba(255, 160, 122, 0.2);
+}
+.card3 {
+  background-color: #fff4d6;
+}
+.card img {
+  padding-top: 5px;
+  height: 126px;
+  width: 126px;
+}
+
+.third-section {
+  display: flex;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 20%;
+}
+
+.square-image {
+  height: 400px;
+  width: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.third-section p {
+  margin-bottom: 50px;
+  margin-right: 100px;
+}
+
+.section-four {
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-bottom: 100px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 20%;
+}
+.section-four .left-side {
+  margin-left: 100px;
+}
+.section-four p {
+  margin-bottom: 50px;
+}
+.horizontal-line {
+  width: 200px;
+  height: 4px;
+  background-color: coral;
+  margin: 0 auto;
+}
+.section-five img {
+  width: 100%;
+  height: 100%;
+  margin-top: 50px;
+}
+
+footer {
+  margin-top: 200px;
+  padding: 20px;
+  background-color: black;
+  color: white;
+}
+footer h2 {
+  font-family: "Lobster", cursive;
+}
+footer p {
+  font-family: "Manrope", sans-serif;
+  font-size: 14px;
+}
